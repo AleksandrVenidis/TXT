@@ -1,0 +1,16 @@
+Bug-report	
+ID 001
+Summary	It does not open the object that was shown by the link.
+Pre-conditions	Open the site https://Real-estate.ge/
+Steps to Reproduce:	
+1. Click on the "Black Sea" builder button
+2. Place the cursor on the builder icon and click on it	
+Expected result	The page of the developer "Black Sea" has opened
+Actual result	The page of the developer "Mardi" has opened
+Post-condition	Close the page
+Environment	"Chrome 104.0.5112.81 (Official build), (64 bit)
+Severity	Trivial
+Priority	Low
+Submit Date	06/22/2023
+Reporter Aleksandr Ivanchenkov
+Attachment	
