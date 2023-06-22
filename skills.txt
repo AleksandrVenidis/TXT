@@ -1,0 +1,10 @@
+1. Basic theory (What is testing, bug reports, documentation, types, methods, directions of testing, etc.) SDLC, STLC
+2. What is client-server architecture
+3. HTTP Methods of requests to the server
+4. HTTP server response codes
+5. Structures of HTTP requests and responses
+6. What is JSON, XML. Their structure
+7. API testing through Postman (JS, API autotests)
+8. Removing and reading logs from an external server
+9. Sniffing http web traffic through Charles and Fiddler
+10. Dev Tools of web browsers (Google Chrome, FireFox)
